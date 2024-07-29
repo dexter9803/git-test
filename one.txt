@@ -1,3 +1,6 @@
 this is file 1
 
 added another file to the folder and commit it 
+added another file to the folder and commit it 2
+added another file to the folder and commit it 3
+added another file to the folder and commit it 4
